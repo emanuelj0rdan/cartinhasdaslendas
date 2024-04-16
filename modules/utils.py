@@ -79,7 +79,7 @@ def create_stdataframe(df, colunas):
     rodadas = {
         "S1": "Rodada 1-2", "S2": "Rodada 3-4", "S3": "Rodada 5-6", "S4": "Rodada 7-8", "S5": "Rodada 9-10",
         "S6": "Rodada 11-12", "S7": "Rodada 13-14", "S8": "Rodada 15-16", "S9": "Rodada 17-18",
-        "Playoff 1": "Playoff 1", "Playoff 2": "Playoff 2", "Playoff 3": "Playoff 3", "Final": "Final"
+        "Playoff 1": "Playoff 1", "Playoff 2": "Playoff 2", "Playoff 3": "Playoff 3", "Playoff 4": "Playoff 4", "Final": "Final"
         }
 
     # dicionário para as colunas fixas
